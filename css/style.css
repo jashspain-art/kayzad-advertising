@@ -232,6 +232,13 @@ h1, h2, h3, h4, h5 { font-family: var(--font-poppins); font-weight: 700; line-he
   font-size: 1.4rem;
 }
 
+.logo-img {
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  object-fit: contain;
+}
+
 .logo-icon {
   width: 42px; height: 42px;
   background: linear-gradient(135deg, var(--blue) 0%, #7C3AED 100%);
